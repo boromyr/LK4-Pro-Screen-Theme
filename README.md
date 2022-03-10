@@ -5,7 +5,9 @@ I did not test with the LK5 Pro. Since this is a similar printer as the LK4 Pro 
 
 Only use this screen firmware with this version of Marlin https://github.com/Guizz27/Marlin---Longer-LKx-Pro
 
+
 ## Changelog
+Theme edited from https://github.com/Guizz27/DWIN_LK4Pro
 
 * Theme inspired by the original Longer firmware
 * New keypad and numpad
