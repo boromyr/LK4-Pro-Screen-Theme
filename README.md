@@ -13,13 +13,16 @@ Theme edited from https://github.com/Guizz27/DWIN_LK4Pro
 * New keypad and numpad
 * Startup screen with skip button (in case of problems)
 * Button to switch between Home screen and Home Print screen (in case of problems)
-* Fix Z Offset print page
+* Fix Z Offset print page 
+* Fix extrude/retract buttons
 
 # Preview 
 
 ![001_home272](https://user-images.githubusercontent.com/52782032/156930812-2c2157cc-cee3-4fab-a1b5-a3e259dafb8a.png)
 ![003_print_status272](https://user-images.githubusercontent.com/52782032/156930813-39da71b4-aa50-461c-a6d2-c54d78865e86.png)
 ![202_popup_numpad272](https://user-images.githubusercontent.com/52782032/156930811-4f34eeb2-7c7d-4967-85b1-d54340977064.png)
+
+Version with color icons in working...
 
 # Installation
 Below you will find brief installation instructions for the screen firmware. 
