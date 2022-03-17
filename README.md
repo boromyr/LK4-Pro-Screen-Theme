@@ -21,7 +21,12 @@ Theme edited from https://github.com/Guizz27/DWIN_LK4Pro
 ![003_print_status272](https://user-images.githubusercontent.com/52782032/156930813-39da71b4-aa50-461c-a6d2-c54d78865e86.png)
 ![202_popup_numpad272](https://user-images.githubusercontent.com/52782032/156930811-4f34eeb2-7c7d-4967-85b1-d54340977064.png)
 
-Version with color icons in working...
+Color verson(beta):
+
+![001_home480](https://user-images.githubusercontent.com/52782032/158834482-6bc6a0cf-6e39-4983-85ac-fb2f22715fe0.png)
+![003_print_status480](https://user-images.githubusercontent.com/52782032/158834418-9d229a9e-1a0c-47e4-a42c-405ef9043731.png)
+![009_settings_menu480](https://user-images.githubusercontent.com/52782032/158834466-86a0fc53-c496-4529-8cb9-04ea223434c6.png)
+
 
 # Installation
 Below you will find brief installation instructions for the screen firmware. 
