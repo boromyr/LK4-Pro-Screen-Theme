@@ -14,6 +14,9 @@ Theme edited from https://github.com/Guizz27/DWIN_LK4Pro
 * Button to switch between Home screen and Home Print screen (in case of problems)
 * Fix Z Offset print page 
 * Fix extrude/retract buttons
+## Download
+
+https://github.com/boromyr/LK4-Pro-Screen-Theme/releases
 
 # Preview 
 
